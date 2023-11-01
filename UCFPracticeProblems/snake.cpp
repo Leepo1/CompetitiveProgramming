@@ -19,7 +19,6 @@ struct node{
     lazy = 0;
     hs = 0;
   }
-
   void lazyupdate(int dif){
     lazy += dif;
     hs +=  dif;

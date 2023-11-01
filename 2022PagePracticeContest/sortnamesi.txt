@@ -1,6 +1,0 @@
-5
-Adam 25 99
-Bob 45 100
-Carol 20 99
-Dave 50 99
-Eve 44 100
